@@ -21,7 +21,7 @@ This MVVM (Model-View-ViewModel) app is designed to [briefly describe the purpos
 
 To run this app, you will need the following software installed on your system:
 
-- Visual Studio
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 ### Installation
 
