@@ -1,4 +1,4 @@
-# MVVM App README
+# DEWEY DECIMAL APP (PROG7312 POE)
 
 ## Table of Contents
 
