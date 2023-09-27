@@ -10,6 +10,7 @@
 3. [Using the App](#using-the-app)
 4. [Contributing](#contributing)
 5. [License](#license)
+6. [References](#references)
 
 ## Introduction
 
@@ -60,3 +61,20 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request to the original repository, detailing your changes and any relevant information.
 
 
+## references
+
+WPF C# Professional Modern Flat UI Tutorial - Payload. 2021. Youtube video, added by Payload. [Online]. Available at: [https://youtu.be/PzP8mw7JUzI?si=t1ssKsyHTCbsFg2v](https://youtu.be/PzP8mw7JUzI?si=t1ssKsyHTCbsFg2v) [Accessed 27 September 2023]
+
+Freepik, 2023. Library free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/library_2302865?term=library&page=1&position=39&origin=search&related_id=2302865](https://www.flaticon.com/free-icon/library_2302865?term=library&page=1&position=39&origin=search&related_id=2302865) [Accessed 27 September 2023]
+
+Freepik, 2023. Pointers free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/pointers_4959330?term=sorting+numbers&page=1&position=37&origin=search&related_id=4959330](https://www.flaticon.com/free-icon/pointers_4959330?term=sorting+numbers&page=1&position=37&origin=search&related_id=4959330) [Accessed 27 September 2023]
+
+Freepik, 2023. Search free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/search_806149?term=search&page=1&position=5&origin=style&related_id=806149](https://www.flaticon.com/free-icon/search_806149?term=search&page=1&position=5&origin=style&related_id=806149) [Accessed 27 September 2023]
+
+Freepik, 2023. Countdown free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/countdown_1329886?term=123&page=4&position=26&origin=tag&related_id=1329886](https://www.flaticon.com/free-icon/countdown_1329886?term=123&page=4&position=26&origin=tag&related_id=1329886) [Accessed 27 September 2023]
+
+vectorsmarket15, 2023. Digital Library free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/digital-library_2888451?term=library&page=1&position=24&origin=search](https://www.flaticon.com/free-icon/digital-library_2888451?term=library&page=1&position=24&origin=search) [Accessed 27 September 2023]
+
+Freepik, 2023. House free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/house_1531788?term=home&page=1&position=37&origin=search&related_id=1531788](https://www.flaticon.com/free-icon/house_1531788?term=home&page=1&position=37&origin=search&related_id=1531788) [Accessed 27 September 2023]
+
+manshagraphics, 2023. Ps4 free icon, flaticon, 2023. [Online]. Available at: [https://www.flaticon.com/free-icon/ps4_8474122?term=controller&page=2&position=61&origin=search&related_id=8474122](https://www.flaticon.com/free-icon/ps4_8474122?term=controller&page=2&position=61&origin=search&related_id=8474122) [Accessed 27 September 2023]
